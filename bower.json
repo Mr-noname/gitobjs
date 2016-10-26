@@ -1,0 +1,22 @@
+{
+  "name": "gitobj",
+  "description": "a test project",
+  "main": "index.js",
+  "authors": [
+    "Mr-noname"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "public/vendor",
+    "test",
+    "tests"
+  ],
+  "devDependencies": {
+    "jquery": "^3.1.1"
+  }
+}
